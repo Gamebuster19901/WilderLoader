@@ -5,8 +5,8 @@ plugins {
 
 repositories {}
 
-sourceCompatibility = '9'
-targetCompatibility = '9'
+sourceCompatibility = '17'
+targetCompatibility = '17'
 
 version = loaderVersion
 group = "com.wildermods"
